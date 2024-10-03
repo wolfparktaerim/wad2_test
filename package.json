@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
   }
 }
